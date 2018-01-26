@@ -6,8 +6,8 @@ A collection of utilities for working with PASCAL Visual Object Classes (VOC) da
 See examples/ folder for usage examples.
 
 
-Darknet: https://pjreddie.com/darknet/
-PASCAL VOC: http://host.robots.ox.ac.uk/pascal/VOC/
+* Darknet: https://pjreddie.com/darknet/
+* PASCAL VOC: http://host.robots.ox.ac.uk/pascal/VOC/
 
 
 
